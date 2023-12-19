@@ -10,7 +10,7 @@ body a{
 }
 .main-navigation {
     display: flex;
-    
+    justify-content: center;
 }
 .main-navigation__list{
     display: flex;
