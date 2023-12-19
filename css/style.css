@@ -9,11 +9,20 @@ body a{
     text-decoration: none;
 }
 .main-navigation {
+    display: flex;
     
 }
 .main-navigation__list{
-    
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
+
+.main-navigation__list_item{
+    margin-right: 20px;
+}
+
 .main-navigation__list_item a{
     text-transform: uppercase;
     font-weight: 400;
