@@ -8,9 +8,25 @@ body a{
     color: #163152;
     text-decoration: none;
 }
+
+.header{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 90px;
+}
+
+.logo{
+    margin-right: 70px;
+}
+
+.main-navigation-img-account{
+    margin-left: 40px;
+}
+
 .main-navigation {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .main-navigation__list{
     display: flex;
