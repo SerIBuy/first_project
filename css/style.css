@@ -45,6 +45,11 @@ body a{
     font-size: 14px;
     line-height: 18xp;
 }
+
+.main-navigation__list_item a:hover{
+    opacity: 0.3;
+}
+
 .hero h1{
     font-style: italic;
     font-size: 44px;
