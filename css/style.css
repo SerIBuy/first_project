@@ -47,7 +47,7 @@ body a{
 }
 
 .main-navigation__list_item a:hover{
-    opacity: 0.3;
+    opacity: 0.5;
 }
 
 .hero h1{
